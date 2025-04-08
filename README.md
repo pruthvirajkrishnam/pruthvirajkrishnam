@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pruthvirajkrishnam
+- 👋 Hi, I’m @Pruthvi
 - 👀 I’m interested in Integrations and APIs.
 - 🌱 I’m currently learning Cloud, AI, Automation, Security etc.,
 - 💞️ I’m looking to collaborate on Mulesoft and API integrations.
